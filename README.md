@@ -12,4 +12,4 @@ The methods of solving these types of problems, especially when there are discre
 
 Likewise, there will be a small introduction to the Python language, specially designed for students with a background in other types of high-level languages ​​focused on mathematical calculation, such as MATLAB. The workshop is aimed at students with basic programming knowledge.
 
-(Stanford)[https://stanford.edu/~boyd/cvxbook/]
+[Stanford](https://stanford.edu/~boyd/cvxbook/)
